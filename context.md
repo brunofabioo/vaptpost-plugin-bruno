@@ -1,0 +1,1 @@
+Plugin no Bubble.io usando Fabric.js versão 5.3.1
